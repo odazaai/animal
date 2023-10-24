@@ -1,0 +1,33 @@
+.pemandangan {
+    background: transparent;
+    background-image: url(hutan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panda {
+    margin-left: 105px;
+}
+
+.kelinci {
+    margin-left: 70px;
+}
+
+.hyena {
+    margin-left: 120px;
+}
+
+.icons {
+    color: white;
+    font-size: x-large;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    
+    color: lightslategray;
+    text-decoration: none;
+}
